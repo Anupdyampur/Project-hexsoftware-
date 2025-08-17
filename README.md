@@ -2,7 +2,8 @@
 Finding fibanice sequence using generator
 # Fibonacci Generator in Python (Jupyter-friendly)
 
-def fibonacci_generator(n):
+def fibonacci_gener
+ator(n):
     """
     Generate the first n numbers of the Fibonacci series.
     
